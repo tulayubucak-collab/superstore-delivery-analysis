@@ -1,4 +1,3 @@
-superstore-delivery-analysis
 📦 Superstore Delivery Time Analysis via Tableau
 
 This project analyzes delivery performance using the Superstore Sales dataset in Tableau.
